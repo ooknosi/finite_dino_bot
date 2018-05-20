@@ -37,5 +37,4 @@ CACHE_FILE = 'cache/processed_comments'
 
 ### subreddits to parse; passed into reddit instance.
 # See: https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html
-#SUBREDDITS = 'all-suicidewatch-depression-anxiety'
-SUBREDDITS = 'finitedinobot'
+SUBREDDITS = 'all-suicidewatch-depression-anxiety'
